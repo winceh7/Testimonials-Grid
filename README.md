@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Solution.png)
 
 ### Links
 
@@ -41,29 +41,13 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+Seen as a project with different elements to be placed, I tried to look for a way to think the best structure for the HTML and apply any changes needed as the project progressed. While with CSS encountering the best styling and figuring out the best breakpoints to have a more a fluid, responsive design across multiple devices, complying with the WCAG standards.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Will practice more complex layouts to keep developing my skills and find better ways to approach a new project from the beginning. Observe better ways to achieve same results with less amount of code (if possible), being more efficient.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [GitHub](https://github.com/winceh7)
+- Frontend Mentor - [@winceh7](https://www.frontendmentor.io/profile/winceh7)
